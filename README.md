@@ -1,0 +1,2 @@
+# farmacias
+establecimientos, regentes, sustituciones
